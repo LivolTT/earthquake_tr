@@ -28,8 +28,8 @@ Bu proje, hem Flutter ile mobil uygulama geliştirme pratiği yapmak hem de depr
 
 1.  **Projeyi Klonla:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[LivolTT]/deprem-takip-app.git
-    cd deprem-takip-app
+    git clone [https://github.com/](https://github.com/)[LivolTT]/earthquake_tr.git
+    cd earthquake_tr
     ```
 2.  **Bağımlılıkları Yükle:**
     ```bash
