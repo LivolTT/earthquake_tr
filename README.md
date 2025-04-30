@@ -28,7 +28,7 @@ Bu proje, hem Flutter ile mobil uygulama geliştirme pratiği yapmak hem de depr
 
 1.  **Projeyi Klonla:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[LivolTT]/earthquake_tr.git
+    git clone [https://github.com/](https://github.com/)LivolTT/earthquake_tr.git
     cd earthquake_tr
     ```
 2.  **Bağımlılıkları Yükle:**
@@ -47,7 +47,7 @@ Bu projenin geliştirilmesi, API kullanım maliyetleri (eğer olursa), sunucu ma
 
 Eğer bu projeyi faydalı buluyorsanız ve gelişimine katkıda bulunmak isterseniz, **GitHub Sponsors** üzerinden destek olabilirsiniz. Desteğiniz, projenin daha hızlı ilerlemesine ve yeni özellikler eklenmesine büyük katkı sağlayacaktır.
 
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub)](https://github.com/sponsors/[LivolTT])
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub)](https://github.com/sponsors/LivolTT)
 ## 🤝 Katkıda Bulunma
 
 Katkıda bulunmak isterseniz (hata bildirimi, özellik önerisi, kod katkısı), lütfen bir "Issue" açın veya "Pull Request" gönderin. Katkılarınız memnuniyetle karşılanır!
